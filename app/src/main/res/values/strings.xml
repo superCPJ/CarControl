@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">CarControl</string>
+    <string name="pic1">1</string>
+    <string name="pic2">2</string>
+    <string name="pic3">3</string>
+    <string name="pic4">4</string>
+    <string name="pic5">5</string>
+    <string name="pic6">6</string>
+    <string name="pic7">7</string>
+    <string name="pic8">8</string>
+    <string name="text1">搜索附近设备</string>
+    <string name="text2">查看绑定设备</string>
+    <string name="text3">进入遥测界面</string>
+    <string name="textsudu">CPJ的小车</string>
+    <string name="xiaoche">xiaoche</string>
+    <string name="qianred">qianred</string>
+    <string name="qianred2">qianred2</string>
+    <string name="qidong">qidong</string>
+    <string name="ii">循迹</string>
+    <string name="iii">避障</string>
+    <string name="iiii">手动</string>
+    <string name="tishi">车辆未连接</string>
+    <string name="qidongye">qidongye</string>
+    <string name="myname">Made by CPJ</string>
+</resources>
